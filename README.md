@@ -29,7 +29,7 @@
 ##
 
 <div style="display: inline_block"><br>
-<img align="right" alt="Rhai-Nezuko" <img src="https://c.tenor.com/7gxuFd-Oc2EAAAAC/nezuko-demon-slayer.gif" />
+<img align="middle" alt="Rhai-Nezuko" <img src="https://c.tenor.com/7gxuFd-Oc2EAAAAC/nezuko-demon-slayer.gif" />
 </div>
 
 
