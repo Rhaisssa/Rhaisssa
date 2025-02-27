@@ -1,6 +1,6 @@
 ## **👋  Oie, me chamo Rhaissa, mas pode me chamar de Rhai 😁😎.**
 
-#### 👨‍🚀 Graduada em matemática, finalizei o curso tecnico de TI (Tecnologia da Informação) e e ainda estou cursando letras Português... ####
+#### 👨‍🚀 Graduada em matemática, curso tecnico de TI (Tecnologia da Informação) e e ainda estou cursando letras Português... ####
 
 #### Aprendi a gostar muito de JavaScript 👩‍💻 e tenho interesse em linguagens de programação em geral, pois a semântica delas é explícita e adoro a objetividade que isso gera... 🧠🖖 #### 
 
