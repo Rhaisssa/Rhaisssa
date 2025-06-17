@@ -1,17 +1,20 @@
-## **👋  Oie, me chamo Rhaissa, mas pode me chamar de Rhai 😁😎.**
+## **👋 Oie, me chamo Rhaissa, mas pode me chamar de Rhai 😁😎.**
 
-#### 👨‍🚀 Graduada em matemática, curso tecnico de TI (Tecnologia da Informação) e e ainda estou cursando letras Português... ####
+#### 👨‍🚀 Sou graduada em **Matemática**, formada em **Técnico em TI (Tecnologia da Informação)** e ainda estou cursando **Letras - Português**... ####
 
-#### Aprendi a gostar muito de JavaScript 👩‍💻 e tenho interesse em linguagens de programação em geral, pois a semântica delas é explícita e adoro a objetividade que isso gera... 🧠🖖 #### 
+#### Aprendi a gostar muito de **JavaScript** 👩‍💻 e tenho interesse em **linguagens de programação** em geral, pois a **semântica** delas é explícita e adoro a **objetividade** que isso gera... 🧠🖖 ####
 
-#### Procuro uma posição como #programadora em Java, em especial com Spring Boot...👩‍💻 #### 
-
-
+#### Procuro uma posição como **Professora de programação JavaScript**, com foco especial em **Spring Boot**... 👩‍💻 ####
 
 ## **Meus contatos:**
 
-<a href="https://www.linkedin.com/in/rhaissa-rodrigues-926476203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:rhaisssaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rhaissa-rodrigues-926476203/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="mailto:rhaisssaa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
 
 
 
