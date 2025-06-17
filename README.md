@@ -4,7 +4,7 @@
 
 #### Aprendi a gostar muito de **JavaScript** 👩‍💻 e tenho interesse em **linguagens de programação** em geral, pois a **semântica** delas é explícita e adoro a **objetividade** que isso gera... 🧠🖖 ####
 
-#### Procuro uma posição como **Professora de programação JavaScript**, com foco especial em **Spring Boot**... 👩‍💻 ####
+#### Procuro uma posição como **Professora de programação JavaScript**... 👩‍💻 ####
 
 ## **Meus contatos:**
 
